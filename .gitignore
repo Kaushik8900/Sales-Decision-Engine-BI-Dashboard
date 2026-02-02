@@ -1,0 +1,11 @@
+# Ignore databases
+*.db
+*.sqlite
+
+# Power BI cache/temp
+*.pbix.tmp
+*.pbix.autosave
+
+# OS files
+.DS_Store
+Thumbs.db
