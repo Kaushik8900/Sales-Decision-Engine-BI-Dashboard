@@ -1,4 +1,4 @@
-# 📊 Decision Engine BI – Sales Optimization Dashboard
+# 📊 Autonomous Business Decision Intelligence System (ABDIS)
 
 A **business‑ready analytics project** that combines **SQL-based decision logic** with **Power BI dashboards** to identify profit leakage, loss-making orders, discount inefficiencies, and actionable recommendations for sales optimization.
 
