@@ -1,6 +1,6 @@
 # 📊 Autonomous Business Decision Intelligence System (ABDIS)
 
-A **business‑ready analytics project** that combines **SQL-based decision logic** with **Power BI dashboards** to identify profit leakage, loss-making orders, discount inefficiencies, and actionable recommendations for sales optimization.
+A rule-driven analytics system that autonomously classifies business health and generates decision recommendations using SQL + Power BI.
 
 This project simulates how a **real analytics / BI team** would design a decision engine and surface insights to stakeholders.
 
